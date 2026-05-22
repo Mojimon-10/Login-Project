@@ -224,23 +224,6 @@ Run
 3. The application will automatically open in your browser
 
 ---
-
-# Login Workflow
-
-```plaintext
-User Enters Credentials
-        ↓
-CAPTCHA Validation
-        ↓
-Database Authentication
-        ↓
-Session Creation
-        ↓
-Welcome User Page
-        ↓
-Access Protected Functionalities
-```
-
 ---
 
 # Important Notes
